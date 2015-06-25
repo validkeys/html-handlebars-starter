@@ -1,0 +1,18 @@
+{
+  "name": "HTML",
+  "version": "0.0.0",
+  "authors": [
+    "Kyle Davis <validkeys@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "semantic-ui": "~1.12.3"
+  }
+}

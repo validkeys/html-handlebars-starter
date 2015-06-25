@@ -1,0 +1,1904 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vendo",
+				"vendorCss"
+			],
+			[
+				"vend",
+				"vendorCss"
+			],
+			[
+				"config",
+				"configDir"
+			],
+			[
+				"styl",
+				"styleFile"
+			],
+			[
+				"st",
+				"stylesDir"
+			],
+			[
+				"bui",
+				"buildTasks"
+			],
+			[
+				"serv",
+				"serveTasks"
+			],
+			[
+				"gulp",
+				"gulpHandlebars"
+			],
+			[
+				"tmeplate",
+				"templatesDir"
+			],
+			[
+				"partisl",
+				"partialsDir"
+			],
+			[
+				"partialsD",
+				"partialsDirectory"
+			],
+			[
+				"temp",
+				"templatesDir"
+			],
+			[
+				"partia",
+				"partialsDir"
+			],
+			[
+				"templ",
+				"templateData"
+			],
+			[
+				"partial",
+				"partialName"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"template",
+				"templatesDir"
+			],
+			[
+				"Route",
+				"RouteMetaMixin"
+			],
+			[
+				"u",
+				"uploadUrl"
+			],
+			[
+				"image",
+				"imageUploadPercentage"
+			],
+			[
+				"send",
+				"sendAction"
+			],
+			[
+				"data",
+				"dataObject"
+			],
+			[
+				"updated",
+				"updatedCreated"
+			],
+			[
+				"curren",
+				"currentCreated"
+			],
+			[
+				"current",
+				"currentUser"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"cal",
+				"calledWith"
+			],
+			[
+				"logg",
+				"loggedInUser"
+			],
+			[
+				"server",
+				"serverInstance"
+			],
+			[
+				"username",
+				"usernameCounter"
+			],
+			[
+				"think",
+				"thinky"
+			],
+			[
+				"Chai",
+				"ChaiAsPromised"
+			],
+			[
+				"Val",
+				"ValidationError"
+			],
+			[
+				"thinky",
+				"thinkyInstance"
+			],
+			[
+				"update",
+				"updatedUser"
+			],
+			[
+				"valid",
+				"validUser"
+			],
+			[
+				"vaid",
+				"validUser"
+			],
+			[
+				"vald",
+				"validUser"
+			],
+			[
+				"share",
+				"shareData"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"faq",
+				"faqHtml"
+			],
+			[
+				"load",
+				"loadFaqHtml"
+			],
+			[
+				"how",
+				"howToHtml"
+			],
+			[
+				"hot",
+				"howtos"
+			],
+			[
+				"acti",
+				"activeClass"
+			],
+			[
+				"act",
+				"activateTab"
+			],
+			[
+				"ac",
+				"activeClass"
+			],
+			[
+				"In",
+				"IntercomProvider"
+			],
+			[
+				"INTER",
+				"IntercomProvider"
+			],
+			[
+				"exp",
+				"expected"
+			],
+			[
+				"expec",
+				"expected"
+			],
+			[
+				"linked",
+				"linkedin"
+			],
+			[
+				"enc",
+				"encodeURIComponentFilter"
+			],
+			[
+				"_",
+				"_encodeURIComponent_"
+			],
+			[
+				"root",
+				"rootScope"
+			],
+			[
+				"htt",
+				"httpBackend_"
+			],
+			[
+				"http",
+				"httpbackend"
+			],
+			[
+				"lo",
+				"locationProvider"
+			],
+			[
+				"mid",
+				"midway-test-template"
+			],
+			[
+				"test",
+				"testValue"
+			],
+			[
+				"admin",
+				"adminResponse"
+			],
+			[
+				"r",
+				"rootScope_"
+			],
+			[
+				"page",
+				"pageViewsYesterday"
+			],
+			[
+				"pagev",
+				"pageViewsYesterday"
+			],
+			[
+				"pageV",
+				"pageViewsByDay"
+			],
+			[
+				"chart",
+				"chartUrl"
+			],
+			[
+				"merga",
+				"mergeVars"
+			],
+			[
+				"total",
+				"totalPagesByDay"
+			],
+			[
+				"new",
+				"newLookup"
+			],
+			[
+				"timeFr",
+				"timeframeResult"
+			],
+			[
+				"time",
+				"timeframeResult"
+			],
+			[
+				"build",
+				"buildPageViewsByHubTitle"
+			],
+			[
+				"ken",
+				"keenQuery"
+			],
+			[
+				"comp",
+				"compiledData"
+			],
+			[
+				"color",
+				"colorsByKey"
+			],
+			[
+				"char",
+				"chartUrl"
+			],
+			[
+				"content",
+				"contentPublishedByType"
+			],
+			[
+				"di",
+				"diff"
+			],
+			[
+				"com",
+				"compiledData"
+			],
+			[
+				"diff",
+				"diffUp"
+			],
+			[
+				"rTot",
+				"rTotalSocialSharesByUser"
+			],
+			[
+				"dif",
+				"diffHasChange"
+			],
+			[
+				"num",
+				"numPostsGrowth"
+			],
+			[
+				"merge",
+				"mergeVars"
+			],
+			[
+				"daily",
+				"dailyMetricsTemplateName"
+			],
+			[
+				"mand",
+				"mandrillClient"
+			],
+			[
+				"mandri",
+				"mandrillApiKey"
+			],
+			[
+				"keen",
+				"keenQuery"
+			],
+			[
+				"tota",
+				"totalPostsByUser"
+			],
+			[
+				"totla",
+				"totalPosts"
+			],
+			[
+				"log",
+				"logJson"
+			],
+			[
+				"mixpa",
+				"mixpanelApiSecret"
+			],
+			[
+				"mixp",
+				"mixpanelImporter"
+			],
+			[
+				"sc",
+				"scopeHub"
+			],
+			[
+				"acc",
+				"acceptData"
+			],
+			[
+				"changed",
+				"changedBgImage"
+			],
+			[
+				"fil",
+				"fileInput"
+			],
+			[
+				"next",
+				"nextSlide"
+			],
+			[
+				"logo",
+				"logoSrc"
+			],
+			[
+				"select",
+				"selectedLogo"
+			],
+			[
+				"upl",
+				"Uploaded"
+			],
+			[
+				"suc",
+				"successText"
+			],
+			[
+				"is",
+				"isPrivate"
+			],
+			[
+				"cur",
+				"currentPath"
+			],
+			[
+				"canc",
+				"cancelButton"
+			],
+			[
+				"can",
+				"cancelButton"
+			],
+			[
+				"ember",
+				"ember-modal-dialog"
+			],
+			[
+				"dele",
+				"deleteButton"
+			],
+			[
+				"backgr",
+				"backgroundImage"
+			],
+			[
+				"has",
+				"hasVideo"
+			],
+			[
+				"play",
+				"playVideo"
+			],
+			[
+				"cover",
+				"coverPage"
+			],
+			[
+				"vid",
+				"videoComponent"
+			],
+			[
+				"epis",
+				"episode-viewer-component"
+			],
+			[
+				"epi",
+				"episode"
+			],
+			[
+				"episod",
+				"episodeChannel"
+			],
+			[
+				"episode",
+				"episodeUser"
+			],
+			[
+				"destr",
+				"_destroyLater"
+			],
+			[
+				"flas",
+				"flashType"
+			],
+			[
+				"_registe",
+				"_registerTypeHandler"
+			],
+			[
+				"initia",
+				"initialize"
+			],
+			[
+				"handle",
+				"handleFindQuery"
+			],
+			[
+				"other",
+				"otherEpisode"
+			],
+			[
+				"ada",
+				"adapterNamespace"
+			],
+			[
+				"first",
+				"firstEpisode"
+			],
+			[
+				"fir",
+				"firstEpisode"
+			],
+			[
+				"ch",
+				"channelUrl"
+			],
+			[
+				"ep",
+				"episodeTiles"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/templates/partials/start.hbs",
+			"settings":
+			{
+				"buffer_size": 237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 2608,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build/styles/app.css",
+			"settings":
+			{
+				"buffer_size": 78834,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/vendorcss.json",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/styles/vars.styl",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/styles/app.styl",
+			"settings":
+			{
+				"buffer_size": 77,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/styles/ui/buttons.styl",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/styles/ui/forms.styl",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 678,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 77.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intsall",
+				"Package Control: Install Package"
+			],
+			[
+				"packai",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/bower_components/semantic-ui",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/bower_components/semantic-ui/dist/components",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/build/styles",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/src/styles/ui",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/src/templates/partials",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/tmp/styles"
+	],
+	"file_history":
+	[
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/tmp/styles/app.css",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/src/styles/ui/forms.styl",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/src/styles/ui/buttons.styl",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/src/templates/splash.hbs",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/tmp/splash.html",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/tmp/splash.hbs",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/src/templates/partials/end.hbs",
+		"/Users/kyledavis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/package.json",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/src/data.json",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/src/templates/splash.handlebars",
+		"/Users/kyledavis/Sites/vwh/datagem-frontend/HTML/src/index.html",
+		"/Users/kyledavis/Sites/vwh/datagem/backend/conf/application.conf",
+		"/Users/kyledavis/Sites/buildlab/screencast-5-head-tag-part-2/SCRIPT.md",
+		"/Users/kyledavis/Sites/buildlab/screencast-4-head-tag-part-1/Sc",
+		"/Users/kyledavis/Sites/buildlab/screencast-4-head-tag-part-1/SCRIPT.md",
+		"/Users/kyledavis/Sites/buildlab/screencast-4-head-tag-part-2/SCRIPT.md",
+		"/Users/kyledavis/Desktop/screencast-5-outline",
+		"/Users/kyledavis/Sites/buildlab/screencast-4-head-tag-part-1/CODE_OUTLINE.md",
+		"/Users/kyledavis/Sites/buildlab/screencast-5-head-tag-part-2/app/routes/people.js",
+		"/Users/kyledavis/Sites/buildlab/screencast-4-head-tag-part-1/public/people.json",
+		"/Users/kyledavis/Sites/buildlab/screencast-4-head-tag-part-1/package.json",
+		"/Users/kyledavis/Sites/buildlab/screencast-4-head-tag-part-1/app/routes/people/person.js",
+		"/Users/kyledavis/Sites/buildlab/screencast-4-head-tag-part-1/app/routes/people.js",
+		"/Users/kyledavis/Sites/buildlab/screencast-4-head-tag-part-1/app/routes/application.js",
+		"/Users/kyledavis/Sites/buildlab/screencast-4-head-tag-part-1/OUTLINE.md",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/transitions.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/models/person.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/Brocfile.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/config/environment.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/controllers/people.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/routes/people.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/templates/people.hbs",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/templates/application.hbs",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/templates/person.hbs",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/router.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/styles/app.css",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/routes/index.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/components/x-card.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/templates/components/x-card.hbs",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/routes/application.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app/views/application.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/4-head-tag-part-1/after/diy/app.sublime-project",
+		"/Users/kyledavis/Sites/buildlab/buildlab-api/log/bullet.log",
+		"/Users/kyledavis/Sites/buildlab/buildlab-api/config/initializers/bullet.rb",
+		"/Users/kyledavis/Sites/social-network/client/app/initializers/store-to-components.js",
+		"/Users/kyledavis/Sites/social-network/client/app/routes/user.js",
+		"/Users/kyledavis/Sites/social-network/client/app/templates/user/index.hbs",
+		"/Users/kyledavis/Sites/social-network/client/app/templates/application.hbs",
+		"/Users/kyledavis/Sites/social-network/client/app/templates/user.hbs",
+		"/Users/kyledavis/Sites/social-network/client/app/router.js",
+		"/Users/kyledavis/Sites/social-network/client/app/store.js",
+		"/Users/kyledavis/Sites/social-network/client/app/templates/login.hbs",
+		"/Users/kyledavis/Sites/social-network/client/tests/acceptance/splash-test.js",
+		"/Users/kyledavis/Sites/social-network/client/app/templates/splash.hbs",
+		"/Users/kyledavis/Sites/social-network/client/tests/acceptance/login-test.js",
+		"/Users/kyledavis/Sites/social-network/client/tests/helpers/login.js",
+		"/Users/kyledavis/Sites/social-network/client/config/environment.js",
+		"/Users/kyledavis/Sites/social-network/client/app/routes/application.js",
+		"/Users/kyledavis/Sites/social-network/client/tests/.jshintrc",
+		"/Users/kyledavis/Sites/social-network/client/app/styles/app.styl",
+		"/Users/kyledavis/Sites/social-network/client/tests/helpers/factory-guy.js",
+		"/Users/kyledavis/Sites/social-network/client/tests/acceptance/index-test.js",
+		"/Users/kyledavis/Sites/social-network/client/app/routes/index.js",
+		"/Users/kyledavis/Sites/social-network/client/app/templates/index.hbs",
+		"/Users/kyledavis/Sites/social-network/client/app/initializers/session.js",
+		"/Users/kyledavis/Sites/social-network/client/app/routes/login.js",
+		"/Users/kyledavis/Sites/social-network/client/app/templates/signup.hbs",
+		"/Users/kyledavis/Sites/social-network/client/app/controllers/login.js",
+		"/Users/kyledavis/Sites/social-network/client/app/routes/signup.js",
+		"/Users/kyledavis/Sites/social-network/client/app/instance-initializers/session.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/3-ember-s3-uploader/backend/src/app/config/database.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/3-ember-s3-uploader/backend/package.json",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/3-ember-s3-uploader/frontend/bower.json",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/3-ember-s3-uploader/frontend/app/templates/posts.hbs",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/3-ember-s3-uploader/frontend/app/controllers/posts.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/3-ember-s3-uploader/frontend/app/routes/posts.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/3-ember-s3-uploader/frontend/app/components/post-tile.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/3-ember-s3-uploader/frontend/README.md",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/3-ember-s3-uploader/frontend/package.json",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/3-ember-s3-uploader/frontend/app/components/s3-upload.js",
+		"/Users/kyledavis/Sites/buildlab/screencasts/screencasts/in-progress/3-ember-s3-uploader/frontend/app/models/post.js",
+		"/Users/kyledavis/Sites/social-network/api/src/app/pods/users/index.js",
+		"/Users/kyledavis/Sites/social-network/api/src/app/pods/users/policies/checkForPasswordChange.js",
+		"/Users/kyledavis/Sites/social-network/api/src/app/pods/users/controller.js",
+		"/Users/kyledavis/Sites/social-network/api/test/factories/user.js",
+		"/Users/kyledavis/Sites/social-network/api/test/unit/models/user.spec.js",
+		"/Users/kyledavis/Sites/social-network/api/test/unit/models/setup.spec.js",
+		"/Users/kyledavis/Sites/social-network/api/test/requests/users.spec.js",
+		"/Users/kyledavis/Sites/social-network/api/src/app/pods/users/policies/canUpdateUser.js",
+		"/Users/kyledavis/Sites/social-network/api/src/app/pods/users/policies/canCreateUser.js",
+		"/Users/kyledavis/Sites/social-network/api/test/unit/pods/users/policies/canCreateUser.spec.js",
+		"/Users/kyledavis/Sites/social-network/api/test/unit/pods/users/policies/canUpdateUser.spec.js",
+		"/Users/kyledavis/Sites/social-network/api/test/support/helpers/auth.js",
+		"/Users/kyledavis/Sites/social-network/api/src/app/services/jwt.js",
+		"/Users/kyledavis/Sites/social-network/api/repl/index.js",
+		"/Users/kyledavis/Sites/social-network/api/test/support/helpers/index.js",
+		"/Users/kyledavis/Sites/social-network/api/src/app/pods/users/policies/canShowUser.js",
+		"/Users/kyledavis/Sites/social-network/api/test/unit/pods/users/policies/canShowUser.js",
+		"/Users/kyledavis/Sites/social-network/api/test/support/initializers/server.js",
+		"/Users/kyledavis/Sites/social-network/api/test/support/initializers/database.js",
+		"/Users/kyledavis/Sites/social-network/api/src/app/models/user/index.js",
+		"/Users/kyledavis/Sites/social-network/api/test/setup/index.js",
+		"/Users/kyledavis/Sites/social-network/api/Gulpfile.js",
+		"/Users/kyledavis/Sites/social-network/api/src/app/lib/models/ensure-unique.js",
+		"/Users/kyledavis/Sites/social-network/api/src/app/lib/policies/fetch-object.js",
+		"/Users/kyledavis/Sites/social-network/api/package.json",
+		"/Users/kyledavis/Sites/social-network/api/src/app/initializers/database/package.json",
+		"/Users/kyledavis/Sites/social-network/api/src/app/initializers/database/index.js",
+		"/Users/kyledavis/Sites/social-network/api/test/unit/models/user.js",
+		"/Users/kyledavis/Sites/social-network/api/test/unit/serializers/user.js",
+		"/Users/kyledavis/Sites/social-network/api/src/app/models/index.js",
+		"/Users/kyledavis/Sites/custom-client-work/social-icons/social-icons.styl",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard-v2/webapp/src/app/content/stream/stream.html",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/scripts.json",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/lib/intercom.js",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/modules/app/directives/auto-height.coffee",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/test/generator-tests/README.md",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/test/generator-tests/package.json",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/gulpfile.coffee",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/test/unit/modules/app/components/toggle-checkbox.spec.coffee",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/test/generator-tests/unit/index.js",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/test/unit/modules/app/directives/auto-height.spec.coffee",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/modules/app/components/asset-editor/partials/post/index.coffee",
+		"/Users/kyledavis/Desktop/db-tests-checklist",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/modules/app/services/imgry.coffee",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/test/unit/modules/services/imgry.spec.coffee",
+		"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/modules/app/components/search/index.coffee"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			"",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard-v2/webapp/src",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/test/unit",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/test",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/app",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/test",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/test",
+			"",
+			"/Users/kyledavis/Sites/pressly-ng/ng-pressilla/src,/Users/kyledavis/Sites/pressly-ng/ng-pressilla/node_modules/pressly-ui-components",
+			"/Users/kyledavis/Sites/pressly-ng/ng-pressilla/src",
+			"",
+			"*.styl",
+			"",
+			"/Users/kyledavis/Sites/buildlab/buildlab-client/app",
+			"/Users/kyledavis/Sites/buildlab/buildlab-client/",
+			"/Users/kyledavis/Sites/buildlab/buildlab-client/tests/acceptance",
+			"",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/engines",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/engines/bookmarklet/styles",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/engines",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/styles",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/modules",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/app",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/app",
+			"",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src/app",
+			"",
+			"/Users/kyledavis/Sites/pressly-ng/pressly-dashboard/webapp/src",
+			"",
+			"/Users/kyledavis/Sites/pressly-ctas-v2/app",
+			"",
+			"/Users/kyledavis/Sites/pressly-ng/ng-pressilla/src",
+			"",
+			"/Users/kyledavis/Sites/tusk/app/app",
+			"",
+			"/Users/kyledavis/Sites/tusk/app/tests",
+			"",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/src",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/src",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/src/styles",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/src",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/src",
+			"",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/src",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/src",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/app",
+			"/Users/kyledavis/Sites/mstrbrnch/client/app",
+			"/Users/kyledavis/Sites/mstrbrnch/client/tests",
+			"/Users/kyledavis/Sites/mstbrnch/client/tests",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/src",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/src/",
+			"/Users/kyledavis/Sites/pressly-ng/dashboard/webapp/src/app",
+			"",
+			"/Users/kyledavis/Sites/mstrbrnch/client/app",
+			"/Users/kyledavis/Sites/pressly.com/src",
+			"/Users/kyledavis/Sites/pressly.com/src/",
+			"/Users/kyledavis/Sites/pressly.com/src/html",
+			"",
+			"/Users/kyledavis/Sites/mstrbrnch/client/tests",
+			"/Users/kyledavis/Sites/mstrbrnch/client/",
+			"/Users/kyledavis/Sites/mstrbrnch/client/app/",
+			"/Users/kyledavis/Sites/mstrbrnch/client/tests",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"partial",
+			"resetMeta",
+			"// ",
+			"+  ",
+			"+    ",
+			"image:",
+			":",
+			"id:",
+			"{{fa-icon",
+			"{{#link-to \"people\"",
+			"gender:     1",
+			"gender:     0",
+			"id:",
+			"image:",
+			"string",
+			"HERE",
+			"this.currentModel",
+			"firstName",
+			"login",
+			"firstName",
+			"user_id",
+			"this.get('token')",
+			"node-babel",
+			"ks",
+			"this",
+			"response",
+			"email",
+			"id",
+			"canCreateUser",
+			"canShowUser",
+			"server",
+			"global.",
+			",",
+			"username",
+			"lastName",
+			"console.",
+			"() => {",
+			"\"I",
+			"\"i",
+			"\"I",
+			"email",
+			"console.log(",
+			"consol",
+			"$scope.asset = News",
+			"max-width:1000px;",
+			" background-image: url(http://cdn.pressly.com/dashboard/social-icons-small-2.png); background-repeat: no-repeat; background-position:",
+			".s3.amazonaws.com",
+			" background-image: url(http://cdn.pressly.com/dashboard/social-icons-small-2.png); background-repeat: no-repeat;",
+			" class=\"form-control\"",
+			"radio",
+			"null",
+			"target=\"blank\" ",
+			"target=\"blank\"",
+			" target=\"blank\"",
+			" margin-left: 15px;",
+			"margin-left: 15px;",
+			"width=\"23px\"",
+			"23px",
+			"float: left;",
+			"div",
+			"span",
+			" else null",
+			"if ($scope.asset) then ",
+			"$scope.$watch",
+			"$scope.$watch [",
+			"$watchGroup",
+			"source",
+			"share",
+			"buffer",
+			"newsletter.socialShare",
+			"newsletter-social=\"socialShare\"",
+			"newsletter-source",
+			"newsletterSource",
+			"new",
+			"newsletterSource",
+			"back to your",
+			"console",
+			"height: 100%;",
+			"450",
+			"howto",
+			"howToHtml",
+			"howTo",
+			"howto",
+			"HowTo",
+			"howtos",
+			"activeClass",
+			"activateLink",
+			"<a",
+			"pusher",
+			"Pusher",
+			"pusher",
+			"Papertrail",
+			"papertrail",
+			"PusherProvider",
+			".provider ",
+			".provider",
+			"papertrail",
+			"//",
+			"test",
+			"auto-height",
+			"test",
+			"toggle-checkbox",
+			"px-toggle-checkbox",
+			"services",
+			"modules/services",
+			".coffee",
+			".filter",
+			"app/",
+			"Drafts",
+			"drafts",
+			"httpbackend",
+			"fp",
+			"Imgry",
+			"Loading dev keen keys",
+			"shared",
+			"$httpbackend",
+			"html5Mode",
+			"html5mode",
+			"test",
+			"html5mode",
+			"$locationProvider",
+			"test",
+			"eql",
+			"to.be.",
+			"toggle-checkbox",
+			"checked",
+			"scope"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$bookmarklet-font-color",
+			"-",
+			"+",
+			"",
+			"Papertrail.log"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/templates/partials/start.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1049,
+								1049
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 554.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "build/styles/app.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 78834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config/vendorcss.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/styles/vars.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/styles/app.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/styles/ui/buttons.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/styles/ui/forms.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "html.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"bow",
+				"bower.json"
+			],
+			[
+				"person",
+				"app/templates/people/person.hbs"
+			],
+			[
+				"app",
+				"app/styles/app.styl"
+			],
+			[
+				"en",
+				"config/environment.js"
+			],
+			[
+				"model",
+				"app/models/person.js"
+			],
+			[
+				"bro",
+				"Brocfile.js"
+			],
+			[
+				"route",
+				"app/router.js"
+			],
+			[
+				"router",
+				"app/router.js"
+			],
+			[
+				"bul",
+				"log/bullet.log"
+			],
+			[
+				"env",
+				"config/environment.js"
+			],
+			[
+				"login",
+				"app/templates/login.hbs"
+			],
+			[
+				"template",
+				"app/templates/application.hbs"
+			],
+			[
+				"envir",
+				"config/environment.js"
+			],
+			[
+				"posts",
+				"app/templates/posts.hbs"
+			],
+			[
+				"s3-upload",
+				"app/components/s3-upload.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"s3-",
+				"app/components/s3-upload.js"
+			],
+			[
+				"models/",
+				"app/models/post.js"
+			],
+			[
+				"postt",
+				"app/components/post-tile.js"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"gulp",
+				"Gulpfile.js"
+			],
+			[
+				"check",
+				"src/app/pods/users/policies/checkForPasswordChange.js"
+			],
+			[
+				"pods/users",
+				"src/app/pods/users/index.js"
+			],
+			[
+				"canc",
+				"src/app/pods/users/policies/canCreateUser.js"
+			],
+			[
+				"initializers",
+				"test/support/initializers/server.js"
+			],
+			[
+				"pods/user/",
+				"src/app/pods/users/controller.js"
+			],
+			[
+				"models/user",
+				"src/app/models/user/index.js"
+			],
+			[
+				"repl",
+				"repl/index.js"
+			],
+			[
+				"support/set",
+				"test/support/initializers/database.js"
+			],
+			[
+				"setup",
+				"test/setup/index.js"
+			],
+			[
+				"ensure-",
+				"src/app/lib/models/ensure-unique.js"
+			],
+			[
+				"repls/",
+				"repl/index.js"
+			],
+			[
+				"models/suer",
+				"src/app/models/user/index.js"
+			],
+			[
+				"fet",
+				"src/app/lib/policies/fetch-object.js"
+			],
+			[
+				"fetch",
+				"src/app/lib/policies/fetch-object.js"
+			],
+			[
+				"ensure-un",
+				"src/app/lib/models/ensure-unique.js"
+			],
+			[
+				"stream",
+				"app/content/stream/stream.html"
+			],
+			[
+				"style",
+				"styles.css"
+			],
+			[
+				"scr",
+				"src/scripts.json"
+			],
+			[
+				"app.co",
+				"src/app.coffee"
+			],
+			[
+				"auto",
+				"src/modules/app/directives/auto-height.coffee"
+			],
+			[
+				"services/img",
+				"src/modules/app/services/imgry.coffee"
+			],
+			[
+				"hubs.st",
+				"src/app/hubs/hubs.styl"
+			],
+			[
+				"authenti",
+				"test/helpers/authenticate-session.coffee"
+			],
+			[
+				"reeler/",
+				"src/modules/reeler/index.coffee"
+			],
+			[
+				"karma",
+				"test/karma-config.coffee"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"index",
+				"src/index.html"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"karm",
+				"test/karma-config.coffee"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"toggle",
+				"src/modules/app/components/toggle-checkbox/index.coffee"
+			],
+			[
+				"scripts",
+				"src/scripts.json"
+			],
+			[
+				"models/hub",
+				"src/modules/app/models/hub.coffee"
+			],
+			[
+				"model/",
+				"src/modules/app/models/hub.coffee"
+			],
+			[
+				"hubs.",
+				"src/app/hubs/hubs.styl"
+			],
+			[
+				"icon",
+				"src/styles/icons.styl"
+			],
+			[
+				"hubuser",
+				"src/modules/app/models/hub_user.coffee"
+			],
+			[
+				"models/invi",
+				"src/modules/app/models/invite.coffee"
+			],
+			[
+				"app-embed",
+				"src/modules/app/components/app-embed/index.coffee"
+			],
+			[
+				"papertrail",
+				"src/modules/papertrail/index.coffee"
+			],
+			[
+				"papertrai",
+				"src/modules/papertrail/index.coffee"
+			],
+			[
+				"asset",
+				"src/modules/app/components/asset-editor/asset-editor.styl"
+			],
+			[
+				"orig",
+				"src/modules/app/components/asset-editor/original-asset-editor.html"
+			],
+			[
+				"templates/epi",
+				"app/templates/episodes/episode.hbs"
+			],
+			[
+				"pofile/channel/epi",
+				"tests/acceptance/profile/channel/episode-test.js"
+			],
+			[
+				"signup-test",
+				"tests/unit/routes/signup-test.js"
+			],
+			[
+				"profile/channel-test",
+				"tests/unit/routes/profile/channel-test.js"
+			],
+			[
+				"profile-test",
+				"tests/unit/routes/profile-test.js"
+			],
+			[
+				"episode/edit/index-test",
+				"tests/unit/routes/lab/episodes/episode/edit/index-test.js"
+			],
+			[
+				"unit/routes/edit-test",
+				"tests/unit/routes/lab/channels/channel/edit-test.js"
+			],
+			[
+				"unit/controllers/lab/episodes/episode/edit/index-test",
+				"tests/unit/controllers/lab/episodes/episode/edit/index-test.js"
+			],
+			[
+				"unit/controllers/lab/channels/channel/edi",
+				"tests/unit/controllers/lab/channels/channel/edit-test.js"
+			],
+			[
+				"video-player-test",
+				"tests/unit/components/video-player-test.js"
+			],
+			[
+				"flash-mes",
+				"tests/unit/components/flash-message-test.js"
+			],
+			[
+				"episode-viewer-test",
+				"tests/unit/components/episode-viewer-test.js"
+			],
+			[
+				"notification",
+				"app/services/notifications.js"
+			],
+			[
+				"episode/edit/index",
+				"app/routes/lab/episodes/episode/edit/index.js"
+			],
+			[
+				"routes/lab/channels/channel/edit",
+				"app/routes/lab/channels/channel/edit.js"
+			],
+			[
+				"profile/channel/index-test",
+				"tests/acceptance/profile/channel/index-test.js"
+			],
+			[
+				"lab/episodes/episode/edit/index-test",
+				"tests/acceptance/lab/episodes/episode/edit/index-test.js"
+			],
+			[
+				"lab/channels/channel/edit-test",
+				"tests/acceptance/lab/channels/channel/edit-test.js"
+			],
+			[
+				"unit/controllers/lab/edit",
+				"tests/unit/controllers/lab/channels/channel/edit-test.js"
+			],
+			[
+				"unit/routes/edit",
+				"tests/unit/routes/lab/channels/channel/edit-test.js"
+			],
+			[
+				"routes/lab/channels/ed",
+				"app/routes/lab/channels/channel/edit.js"
+			],
+			[
+				"controllers/edit",
+				"app/controllers/lab/channels/channel/edit.js"
+			],
+			[
+				"unit/controllers/lab/chan",
+				"tests/unit/controllers/lab/channels/channel/edit-test.js"
+			],
+			[
+				"profile/episod",
+				"app/templates/profile/channel/episode.hbs"
+			],
+			[
+				"episode-viwer",
+				"app/templates/components/episode-viewer.hbs"
+			],
+			[
+				"video-play",
+				"app/components/video-player.js"
+			],
+			[
+				"styles/vi",
+				"app/styles/components/video-player.styl"
+			],
+			[
+				"episode-viewer",
+				"app/components/episode-viewer.js"
+			],
+			[
+				"unit/episode-viewer",
+				"tests/unit/components/episode-viewer-test.js"
+			],
+			[
+				"episode.hb",
+				"app/templates/episodes/episode.hbs"
+			],
+			[
+				"tests/unit/component/vi",
+				"tests/unit/components/video-player-test.js"
+			],
+			[
+				"video",
+				"app/components/video-player.js"
+			],
+			[
+				"services-",
+				"tests/unit/services/notifications-test.js"
+			],
+			[
+				"notification-b",
+				"app/utils/notification-object.js"
+			],
+			[
+				"tests/notification",
+				"tests/unit/utils/notification-object-test.js"
+			],
+			[
+				"services/notifi",
+				"app/services/notifications.js"
+			],
+			[
+				"notif",
+				"app/utils/notification-object.js"
+			],
+			[
+				"helpers/notifi",
+				"tests/helpers/notifications.js"
+			],
+			[
+				"services/",
+				"app/services/notifications.js"
+			],
+			[
+				"notific",
+				"app/utils/notification-object.js"
+			],
+			[
+				"notification-o",
+				"app/utils/notification-object.js"
+			],
+			[
+				"app.js",
+				"app/app.js"
+			],
+			[
+				"routes/ap",
+				"app/routes/application.js"
+			],
+			[
+				"tests/",
+				"tests/.jshintrc"
+			],
+			[
+				"tests/js",
+				"tests/.jshintrc"
+			],
+			[
+				"accepance/login",
+				"tests/acceptance/login-test.js"
+			],
+			[
+				"flash",
+				"tests/unit/components/flash-message-test.js"
+			],
+			[
+				"application",
+				"app/templates/application.hbs"
+			],
+			[
+				"routes/app",
+				"app/routes/application.js"
+			],
+			[
+				"utils/no",
+				"app/utils/notification-object.js"
+			],
+			[
+				"notifications-tes",
+				"tests/unit/services/notifications-test.js"
+			],
+			[
+				"routes/chan",
+				"app/routes/channels.js"
+			],
+			[
+				"models/c",
+				"app/models/channel.js"
+			],
+			[
+				"channel/edi",
+				"app/templates/lab/channels/channel/edit.hbs"
+			],
+			[
+				"episode-form",
+				"app/templates/components/episode-form.hbs"
+			],
+			[
+				"channel/ed",
+				"app/templates/lab/channels/channel/edit.hbs"
+			],
+			[
+				"channels/index",
+				"app/templates/channels/index.hbs"
+			],
+			[
+				"channels.h",
+				"app/templates/channels.hbs"
+			],
+			[
+				"routes/profile/chan",
+				"tests/unit/routes/profile/channel-test.js"
+			],
+			[
+				"episode-til",
+				"tests/unit/components/episode-tile-test.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1328.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
