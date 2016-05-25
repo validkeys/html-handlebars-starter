@@ -19,7 +19,7 @@ var gulp            = require('gulp'),
       build:        "./build"
     },
     vendorCss       = JSON.parse(fs.readFileSync(path.join(config.configDir, 'vendorcss.json')));
-    templateData    = JSON.parse(fs.readFileSync(path.join(config.src, 'data.json')));
+    templateData    = undefined;
 
 console.log("Plugins loaded: " + JSON.stringify(Object.keys(plugins)));
 
@@ -29,17 +29,33 @@ gulp.task('clean', function(cb) {
 });
 
 // Compiling
-gulp.task('build:templates', function() {
+gulp.task('build:templatesPreview', function() {
+  templateData = JSON.parse(fs.readFileSync(path.join(config.src, 'data.json')));
+  var options = {
+    partialsDirectory: config.partialsDir,
+    allowedExtensions: ['hbs']
+  };
+  var dirs = [];
+  dirs.push(config.templatesDir + "/*.hbs");
+  return gulp.src(dirs)
+    .pipe(gulpHandlebars(templateData, options))
+    .pipe(plugins.rename({
+      extname: "-preview.html"
+    }))
+    .pipe(gulp.dest(config.build))
+    .pipe(plugins.connect.reload());
+});
+
+gulp.task('build:templates', ['build:templatesPreview'], function() {
 
   var options = {
     partialsDirectory: config.partialsDir,
     allowedExtensions: ['hbs']
   };
-
   var dirs = [];
   dirs.push(config.templatesDir + "/*.hbs");
-
   return gulp.src(dirs)
+    .pipe(plugins.replace(/\{{(?!>)/g, "\\{{"))
     .pipe(gulpHandlebars(templateData, options))
     .pipe(plugins.rename({
       extname: ".html"
@@ -47,6 +63,7 @@ gulp.task('build:templates', function() {
     .pipe(gulp.dest(config.build))
     .pipe(plugins.connect.reload());
 });
+
 
 
 // Compiles all user stylus files and places in a tmp directory
@@ -62,11 +79,19 @@ gulp.task('compile:styles', function() {
     .pipe(gulp.dest(config.tmp + '/styles'))
 });
 
+
 // Combines the user styles with the semantic-ui lib styles
 gulp.task('build:styles', ['compile:styles'], function() {
   return gulp.src(vendorCss.concat(config.tmp + '/styles/app.css'))
     .pipe(plugins.concat('app.css'))
     .pipe(gulp.dest(config.build + "/styles"))
+});
+
+gulp.task('inline:css', ['build:templates','build:styles'], function() {
+  return gulp.src([config.build + '/**/*.html', config.build + '/**/*.css'])
+    .pipe(plugins.juiceConcat({}))
+    .pipe(gulp.dest(config.build))
+    .pipe(plugins.connect.reload());
 });
 
 // Server
@@ -77,7 +102,8 @@ var serveTasks = [
 
 var buildTasks = [
   'build:templates',
-  'build:styles'
+  'build:styles',
+  'inline:css'
 ];
 
 gulp.task('startServer', function(next){
